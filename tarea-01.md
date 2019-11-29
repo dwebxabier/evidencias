@@ -14,3 +14,13 @@
 ![](images/7.PNG)
 ![](images/8.PNG)
 ![](images/9.PNG)
+
+#### 3. Instalar MySQL y phpMyAdmin, crear un enlace simbólico a la carpeta phpMyAdmin en "/var/www/html/phpmyadmin" y crear un usuario en la base de datos con todos los permisos.
+
+![](images/10.PNG)
+![](images/11.PNG)
+![](images/12.PNG)
+![](images/13.PNG)
+![](images/14.PNG)
+![](images/15.PNG)
+![](images/16.PNG)
