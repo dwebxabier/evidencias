@@ -24,3 +24,9 @@
 ![](images/14.PNG)
 ![](images/15.PNG)
 ![](images/16.PNG)
+
+#### 4. Instalar PHP.
+
+![](images/17.PNG)
+![](images/18.PNG)
+![](images/19.PNG)
